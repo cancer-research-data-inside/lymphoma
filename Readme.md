@@ -1,4 +1,4 @@
-# Lympyoma ML project
+# Lymphoma ML project
 
 If you need data analysis help, please contact data_inside@outlook.com for farther informations.
 
