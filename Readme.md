@@ -6,9 +6,9 @@ Reference:
 https://lymphoma.org/
 
 **Lymphoma** is the most common type of blood cancer.  Specifically, lymphoma is a cancer that affects lymphocytes, which are a type of white blood cell. Lymphocytes travel through the blood and lymphatic system to defend the body against foreign invaders like bacteria and viruses.  **Lymphoma**s usually develop when a change, or mutation, occurs within a lymphocyte, causing the abnormal cell to replicate faster than, or live longer than, a normal lymphocyte.  Like normal lymphocytes, cancerous lymphocytes can travel through the blood and lymphatic system and spread and grow in many parts of the body, including the lymph nodes, spleen, bone marrow, and other organs.<br/>
-Three major categories of cancers that affect lymphocytes are:<br\>
+Three major categories of cancers that affect lymphocytes are:<br/>
 Chronic Lymphocytic Leukemia/Small Lymphocytic **Lymphoma** (CLL/SLL): CLL/SLL are the same disease with slightly different manifestations. Where the cancerous cells gather determines whether it is called CLL or SLL. Leukemic cells develop because of a change that takes place in the cell’s DNA. Approximately 19,000 people are diagnosed with CLL/SLL in the United States each year.
-Hodgkin **Lymphoma** (HL): There are five types of HL, an uncommon form of lymphoma that involves the Reed-Sternberg cells. Approximately 9,000 people are diagnosed with HL in the United States each year.
+Hodgkin **Lymphoma** (HL): There are five types of HL, an uncommon form of lymphoma that involves the Reed-Sternberg cells. Approximately 9,000 people are diagnosed with HL in the United States each year.<br/>
 Non-Hodgkin **Lymphoma** (NHL): There are more than 90 types of NHL, some of which are more common than others. Any lymphoma that does not involve Reed-Sternberg cells is classified as non-Hodgkin lymphoma. Approximately 80,000 people are diagnosed with NHL each year in the United States.
 
 Mantle cell lymphoma is a rare form of cancer of the immune system. In MCL, abnormal B cells that originate in the mantle zone, or outer edge, of the lymph node, grow out of control. MCL is a type of B cell non-Hodgkin lymphoma.
