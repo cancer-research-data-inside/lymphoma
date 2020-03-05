@@ -1,0 +1,7 @@
+#C-S-J
+var url = "https://drive.google.com/open?id=1aE8d71OmYqXJEQWH8Xccoj-D1N-ysWgR"
+undefined
+function getIdFromUrl(url) {return url.match(/[-\w]{25,}/); }
+undefined
+getIdFromUrl(url)
+["1aE8d71OmYqXJEQWH8Xccoj-D1N-ysWgR", index: 33, input: "https://drive.google.com/open?id=1aE8d71OmYqXJEQWH8Xccoj-D1N-ysWgR", groups: undefined]
