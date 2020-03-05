@@ -22,6 +22,7 @@ Follicular lymphoma (**FL**) is typically a slow-growing or indolent form of non
 Signs and Symptoms
 Certain symptoms are not specific to lymphoma and are, in fact, similar to those of many other illnesses. People often first go to the doctor because they think they have a cold, the flu or some other respiratory infection that does not go away.
 Common symptoms include:
+
     - Swelling of lymph nodes, which may or may not be painless
     - Fever
     - Unexplained weight loss
@@ -29,4 +30,5 @@ Common symptoms include:
     - Chills
     - Lack of energy
     - Itching
+    
 Most people who have these non-specific symptoms will not have lymphoma. However, it is important that anyone with persistent symptoms be examined by a doctor to make sure lymphoma is not present.
