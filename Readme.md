@@ -33,35 +33,51 @@ Common symptoms include:
     
 Most people who have these non-specific symptoms will not have lymphoma. However, it is important that anyone with persistent symptoms be examined by a doctor to make sure lymphoma is not present.
 
-#Model test summary:
+# Model test summary:
 
 ##Each sample cut by 30 small patches
+
 *Person id*: 0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
+
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+
  [[ 0  0  0]
  [ 1 28  1]
  [ 0  0  0]]
 --------------------------------------------------
+
 *Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
+
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
  [[18  0 12]
  [ 0  0  0]
  [ 0  0  0]]
 --------------------------------------------------
+
 *Person id*: 2  Sample filename: b'./FL/sj-05-894-R3_008.tif'
+
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+
  [[ 0  0  0]
  [ 0 30  0]
  [ 0  0  0]]
+ 
 --------------------------------------------------
+
 *Person id*: 3  Sample filename: b'./MCL/sj-04-6010-R3_011.tif'
+
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+
  [[ 0  0  0]
  [ 0  0  0]
  [ 0  0 30]]
+ 
 --------------------------------------------------
+
 *Person id*: 4  Sample filename: b'./CLL/sj-03-476_009.tif'
+
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+
  [[30  0  0]
  [ 0  0  0]
  [ 0  0  0]]
