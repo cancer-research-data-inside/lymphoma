@@ -81,4 +81,35 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  [[30  0  0]
  [ 0  0  0]
  [ 0  0  0]]
+ 
+ --------------------------------------------------
+*Person id*: 5  Sample filename: b'./MCL/sj-04-4967-R2_011.tif'
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  0 30]]
+--------------------------------------------------
+*Person id*: 6  Sample filename: b'./MCL/sj-05-768_004.tif'
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  0 30]]
+--------------------------------------------------
+*Person id*: 7  Sample filename: b'./MCL/sj-05-4179-R1_002.tif'
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  0 30]]
+--------------------------------------------------
+*Person id*: 8  Sample filename: b'./MCL/sj-05-768_014.tif'
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  0 30]]
+--------------------------------------------------
+*Person id*: 9  Sample filename: b'./CLL/sj-03-5521_005.tif'
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[30  0  0]
+ [ 0  0  0]
+ [ 0  0  0]]
 ```
