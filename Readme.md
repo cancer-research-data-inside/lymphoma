@@ -1,14 +1,13 @@
 # Lymphoma ML project
 
-If you need data analysis help, please contact cancer.research.data.inside@gmail.com for farther informations.
+If you need data analysis help, please contact data_inside.com.
 
-You welcome to send your sample images through our email with subject:"lymphoma sample ML test".
+You welcome to send your sample images to cancer.research.data.inside@gmail.com with subject:"lymphoma sample ML test".
 
-We are welcome medical professionals to join us.
+We are welcome medical professional's feedbacks.
 
 Let's make data help people and save lifes!
 
--Jindong
 
 # Model test summary:
 
