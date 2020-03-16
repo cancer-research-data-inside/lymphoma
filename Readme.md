@@ -10,7 +10,7 @@ Data scientist comments go data analysis wiki page.
 
 Other comments go guest wiki page.
 
-[wiki pages](https://github.com/cancer-research-data-inside/lymphoma/wiki)
+[click here go wiki pages](https://github.com/cancer-research-data-inside/lymphoma/wiki)
 
 Let's make data help people and save lifes!
 
