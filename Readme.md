@@ -5,6 +5,7 @@ If you need data analysis help, please contact data_inside@outlook.com.
 You welcome to send your sample images to cancer.research.data.inside@gmail.com with subject:"lymphoma sample ML test".
 
 We are welcome medical professional's feedbacks.
+https://github.com/cancer-research-data-inside/lymphoma/wiki
 
 Let's make data help people and save lifes!
 
