@@ -6,10 +6,8 @@ You welcome to send your sample images to cancer.research.data.inside@gmail.com 
 
 All comments are welcome:
 - Medical professional can feedback at our [medical professional wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/Medical-professional-discussion-page).
-- Data scientist comments go data analysis wiki page.
-- Other comments go guest wiki page.
-
-[click here go wiki pages](https://github.com/cancer-research-data-inside/lymphoma/wiki)
+- Data scientist comments go [data analysis wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/data-analysis-discussion-page).
+- Other comments go [guest wiki page](https://github.com/cancer-research-data-inside/lymphoma/wiki/Guest-wiki-page).
 
 Let's make data help people and save lifes!
 
