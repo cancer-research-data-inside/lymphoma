@@ -2,7 +2,7 @@
 
 *Person id*: 0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
 ```
-predict labels:
+predict patch matrix:
  [[1 1 2 0 1 1]
  [1 1 1 1 1 1]
  [1 1 1 1 1 1]
@@ -16,7 +16,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
 --------------------------------------------------
 *Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
 ```
-predict labels:
+predict patch matrix:
  [[2 2 2 0 0 2]
  [2 2 2 0 0 2]
  [0 2 0 0 0 0]
