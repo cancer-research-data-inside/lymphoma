@@ -1,5 +1,7 @@
-##Each sample cut by 30 small patches
+## Each sample cut by 30 small patches
+
 *Person id*: 0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
+```
 predict labels:
  [[1 1 2 0 1 1]
  [1 1 1 1 1 1]
@@ -10,6 +12,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  [[ 0  0  0]
  [ 1 26  3]
  [ 0  0  0]]
+ ```
 --------------------------------------------------
 *Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
 predict labels:
