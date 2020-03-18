@@ -15,6 +15,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  ```
 --------------------------------------------------
 *Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
+```
 predict labels:
  [[2 2 2 0 0 2]
  [2 2 2 0 0 2]
@@ -25,6 +26,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  [[18  0 12]
  [ 0  0  0]
  [ 0  0  0]]
+ ```
  --------------------------------------------------
 *Person id*: 2  Sample filename: b'./FL/sj-05-894-R3_008.tif'
 predict labels:
