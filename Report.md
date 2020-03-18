@@ -43,8 +43,8 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  ```
 --------------------------------------------------
 *Person id*: 3  Sample filename: b'./MCL/sj-04-6010-R3_011.tif'
-predicted patch matrix:
 ```
+predicted patch matrix:
  [[2 2 2 2 2 2]
  [2 2 2 2 2 2]
  [2 2 2 2 2 2]
@@ -57,7 +57,8 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  ```
 --------------------------------------------------
 *Person id*: 4  Sample filename: b'./CLL/sj-03-476_009.tif'
-predict labels:
+```
+predicted patch matrix:
  [[0 0 0 0 0 0]
  [0 0 0 0 0 0]
  [0 0 0 0 0 0]
@@ -67,6 +68,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  [[30  0  0]
  [ 0  0  0]
  [ 0  0  0]]
+ ```
 --------------------------------------------------
 *Person id*: 5  Sample filename: b'./MCL/sj-04-4967-R2_011.tif'
 predict labels:
