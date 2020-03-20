@@ -15,84 +15,220 @@ Let's make data help people and save lifes!
 # Model test summary:
 
 ## Each sample cut by 30 small patches
+labels in matrix: 0:CCL, 1:FL, 2:MCL
+*Person id*:v0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
 ```
-*Person id*: 0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
-
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[1 1 2 0 1 1]
+ [1 1 1 1 1 1]
+ [1 1 1 1 1 1]
+ [1 1 1 1 1 1]
+ [1 1 0 1 1 1]]
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
-
  [[ 0  0  0]
- [ 1 28  1]
+ [ 2 27  1]
  [ 0  0  0]]
+```
 --------------------------------------------------
-
-*Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
-
+*Person id*:v1  Sample filename: b'./CLL/sj-03-5521_006.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[2 2 2 0 0 2]
+ [2 2 2 0 0 0]
+ [0 2 0 0 0 0]
+ [0 0 0 0 2 0]
+ [0 0 0 2 2 0]]
 Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[18  0 12]
- [ 0  0  0]
- [ 0  0  0]]
---------------------------------------------------
-
-*Person id*: 2  Sample filename: b'./FL/sj-05-894-R3_008.tif'
-
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
-
- [[ 0  0  0]
- [ 0 30  0]
- [ 0  0  0]]
- 
---------------------------------------------------
-
-*Person id*: 3  Sample filename: b'./MCL/sj-04-6010-R3_011.tif'
-
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
-
- [[ 0  0  0]
- [ 0  0  0]
- [ 0  0 30]]
- 
---------------------------------------------------
-
-*Person id*: 4  Sample filename: b'./CLL/sj-03-476_009.tif'
-
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
-
- [[30  0  0]
- [ 0  0  0]
- [ 0  0  0]]
- 
- --------------------------------------------------
-*Person id*: 5  Sample filename: b'./MCL/sj-04-4967-R2_011.tif'
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[ 0  0  0]
- [ 0  0  0]
- [ 0  0 30]]
---------------------------------------------------
-*Person id*: 6  Sample filename: b'./MCL/sj-05-768_004.tif'
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[ 0  0  0]
- [ 0  0  0]
- [ 0  0 30]]
---------------------------------------------------
-*Person id*: 7  Sample filename: b'./MCL/sj-05-4179-R1_002.tif'
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[ 0  0  0]
- [ 0  0  0]
- [ 0  0 30]]
---------------------------------------------------
-*Person id*: 8  Sample filename: b'./MCL/sj-05-768_014.tif'
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[ 0  0  0]
- [ 0  0  0]
- [ 0  0 30]]
---------------------------------------------------
-*Person id*: 9  Sample filename: b'./CLL/sj-03-5521_005.tif'
-Confusion matrics index: ['CLL', 'FL', 'MCL'] 
- [[30  0  0]
+ [[19  0 11]
  [ 0  0  0]
  [ 0  0  0]]
 ```
-
+--------------------------------------------------
+*Person id*:v2  Sample filename: b'./FL/sj-05-894-R3_008.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v3  Sample filename: b'./MCL/sj-04-6010-R3_011.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[2 2 2 2 2 1]
+ [2 2 2 2 2 2]
+ [2 2 2 2 2 2]
+ [2 2 2 2 2 2]
+ [2 2 2 2 2 2]]
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  1 29]]
+```
+--------------------------------------------------
+*Person id*:v4  Sample filename: b'./CLL/sj-03-476_009.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v5  Sample filename: b'./MCL/sj-04-4967-R2_011.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v6  Sample filename: b'./MCL/sj-05-768_004.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v7  Sample filename: b'./MCL/sj-05-4179-R1_002.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v8  Sample filename: b'./MCL/sj-05-768_014.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v9  Sample filename: b'./CLL/sj-03-5521_005.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v10  Sample filename: b'./MCL/sj-05-768_013.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v11  Sample filename: b'./FL/sj-05-588-R1_003.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v12  Sample filename: b'./MCL/sj-05-1374_001.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v13  Sample filename: b'./MCL/sj-05-3362-R2_013.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v14  Sample filename: b'./CLL/sj-05-3344_002.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[0 1 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 1 0 0]
+ [0 0 0 1 0 0]]
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[27  3  0]
+ [ 0  0  0]
+ [ 0  0  0]]
+```
+--------------------------------------------------
+*Person id*:v15  Sample filename: b'./FL/sj-05-1881-R1_001.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[1 1 1 1 1 1]
+ [1 1 1 1 1 1]
+ [1 1 1 1 1 1]
+ [1 1 1 1 1 1]
+ [1 1 1 1 2 2]]
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0 28  2]
+ [ 0  0  0]]
+```
+--------------------------------------------------
+*Person id*:v16  Sample filename: b'./FL/sj-05-588-R1_010.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v17  Sample filename: b'./CLL/sj-05-1396-R3_005.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v18  Sample filename: b'./MCL/sj-04-3077-R2_002.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[2 2 2 2 2 2]
+ [2 2 2 2 2 2]
+ [2 2 2 2 2 1]
+ [2 2 2 2 2 2]
+ [2 2 2 2 2 2]]
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[ 0  0  0]
+ [ 0  0  0]
+ [ 0  1 29]]
+```
+--------------------------------------------------
+*Person id*:v19  Sample filename: b'./FL/sj-05-894-R3_001.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v20  Sample filename: b'./MCL/sj-04-3077-R2_010.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v21  Sample filename: b'./CLL/sj-05-3874-R2_002.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v22  Sample filename: b'./MCL/sj-04-6010-R3_006.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v23  Sample filename: b'./CLL/sj-03-852-R2_006.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v24  Sample filename: b'./CLL/sj-03-5521_004.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v25  Sample filename: b'./MCL/sj-05-1374_014.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v26  Sample filename: b'./FL/sj-05-5389-R1_009.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v27  Sample filename: b'./MCL/sj-04-4525-R4_003.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v28  Sample filename: b'./MCL/sj-04-3077-R2_006.tif'
+```
+All patches 100% matched
+```
+--------------------------------------------------
+*Person id*:v29  Sample filename: b'./CLL/sj-03-4957_007.tif'
+```
+predict patch matrix 0:CCL, 1:FL, 2:MCL:
+ [[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 1 0 0]
+ [0 0 0 1 0 0]
+ [2 0 0 1 0 0]]
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+ [[26  3  1]
+ [ 0  0  0]
+ [ 0  0  0]]
+```
+--------------------------------------------------
 Reference:
 https://lymphoma.org/
 
