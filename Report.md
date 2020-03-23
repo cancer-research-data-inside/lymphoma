@@ -1,6 +1,6 @@
 ## Each sample cut by 30 small patches
 labels in matrix: 0:CCL, 1:FL, 2:MCL
-*Person id*: 0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
+*Person id*: 0  Sample filename: [b'./FL/sj-05-1881-R1_018.tif'](https://raw.githubusercontent.com/cancer-research-data-inside/lymphoma/master/FL/sj-05-1881-R1_018.tif)
 ```
 predict patch matrix 0:CCL, 1:FL, 2:MCL:
  [[1 1 2 0 1 1]
