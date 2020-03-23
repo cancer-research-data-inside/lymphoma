@@ -15,7 +15,7 @@ Confusion matrics index: ['CLL', 'FL', 'MCL']
  [ 0  0  0]]
 ```
 --------------------------------------------------
-*Person id*: 1  Sample filename: b'./CLL/sj-03-5521_006.tif'
+*Person id*: 1  Sample filename: [b'./CLL/sj-03-5521_006.tif'](CLL/sj-03-5521_006.tif)
 ```
 predict patch matrix 0:CCL, 1:FL, 2:MCL:
  [[2 2 2 0 0 2]
