@@ -11,8 +11,31 @@ All comments are welcome:
 
 Let's make data help people and save lifes!
 
+# Basic info. of the project
+
+Dataset:
+100 CCL samples in CCL directory
+100 FL  samples in FL directory
+100 MCL samples in MCL directory
+
+Each sample cut into 30 small patches and random flipped and spined to train and test model.
+
+We use 90% data train model and hold 10% data test model
+
+Initial result:
+We are able to improve the model accuracy from 86% to 97%
+The project is tempory on hold and wait for medical professinals input to make sure it is meaningful.
 
 # Model test summary:
+```
+[[252.   6.  12.]
+ [  2. 205.   3.]
+ [  0.   2. 418.]]
+Accuracty:	0.9722222222222222
+```
+
+# Model test summary grouped by patient ID:
+
 
 ## Each sample cut by 30 small patches
 labels in matrix: 0:CCL, 1:FL, 2:MCL
