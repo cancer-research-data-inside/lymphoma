@@ -13,10 +13,10 @@ Let's make data help people and save lifes!
 
 # Basic info. of the project
 
-Dataset:
-100 CCL samples in CCL directory
-100 FL  samples in FL directory
-100 MCL samples in MCL directory
+Datasets:
+- 100 CCL samples in CCL directory
+- 100 FL  samples in FL directory
+- 100 MCL samples in MCL directory
 
 Each sample cut into 30 small patches and random flipped and spined to train and test model.
 
