@@ -24,7 +24,7 @@ We use 90% data train model and hold 10% data test model
 
 Initial result:
 We are able to improve the model accuracy from 86% to 97%
-The project is tempory on hold and wait for medical professinals input to make sure it is meaningful.
+The project is tempory on hold and waiting for medical professionals input to make sure it is meaningful.
 
 # Model test summary:
 ```
