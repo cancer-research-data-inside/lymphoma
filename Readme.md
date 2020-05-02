@@ -41,6 +41,7 @@ Accuracty:	0.9722222222222222
 
 ## Each sample cut by 30 small patches
 labels in matrix: 0:CCL, 1:FL, 2:MCL
+
 *Person id*:v0  Sample filename: b'./FL/sj-05-1881-R1_018.tif'
 ```
 predict patch matrix 0:CCL, 1:FL, 2:MCL:
