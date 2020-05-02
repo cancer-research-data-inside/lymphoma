@@ -28,6 +28,8 @@ The project is tempory on hold and waiting for medical professionals input to ma
 
 # Model test summary:
 ```
+Confusion matrics index: ['CLL', 'FL', 'MCL'] 
+
 [[252.   6.  12.]
  [  2. 205.   3.]
  [  0.   2. 418.]]
