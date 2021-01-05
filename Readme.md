@@ -1,6 +1,6 @@
 # Lymphoma ML project
 
-If you need data analysis help, please contact data_inside@outlook.com.
+If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
 
 You welcome to send your sample images to cancer.research.data.inside@gmail.com with subject:"lymphoma sample ML test".
 
