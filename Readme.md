@@ -1,5 +1,14 @@
 # Lymphoma ML project
 
+Make some digital money through:
+
+<a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/125.gif"></a>
+
+Donate us to help more patients!
+
+![Donate USD digital to cancer-research-data-inside](cancer-research-data-inside-usdd.gif)
+![Donate BTC to cancer-research-data-inside](cancer-research-data-inside-btc.gif
+
 If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
 
 You welcome to send your sample images to cancer.research.data.inside@gmail.com with subject:"lymphoma sample ML test".
