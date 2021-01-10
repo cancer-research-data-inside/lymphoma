@@ -5,8 +5,9 @@ Make some digital money through:
 <a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/125.gif"></a>
 
 Donate us to help more patients!
-
+# Donate USD digital:
 ![Donate USD digital to cancer-research-data-inside](cancer-research-data-inside-usdd.png)
+# Donate Bitcoin:
 ![Donate BTC to cancer-research-data-inside](cancer-research-data-inside-btc.png)
 
 If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
