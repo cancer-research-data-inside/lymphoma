@@ -6,8 +6,8 @@ Make some digital money through:
 
 Donate us to help more patients!
 
-![Donate USD digital to cancer-research-data-inside](cancer-research-data-inside-usdd.gif)
-![Donate BTC to cancer-research-data-inside](cancer-research-data-inside-btc.gif
+![Donate USD digital to cancer-research-data-inside](cancer-research-data-inside-usdd.png)
+![Donate BTC to cancer-research-data-inside](cancer-research-data-inside-btc.png)
 
 If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
 
