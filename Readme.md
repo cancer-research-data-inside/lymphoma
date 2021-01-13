@@ -1,12 +1,6 @@
 # Lymphoma ML project
 
 Donate to help:
-# Donate USD digital:
-USD Digital token is not itself a US dollar, but Paxos Trust Company, LLC is responsible for backing each token with a US dollar held in segregated accounts at FDIC-insured, U.S. banks. Paxos Trust Company, LLC is also responsible for issuing and redeeming each token in exchange for $1.00 USD. You can start to generate USDD with $0 investment from **bluemagic** link above as of today (1/10/2021). I am keeping my finger crossed to get some funding for my cancer research ML program :).
-
-![Donate USD digital to cancer-research-data-inside](cancer-research-data-inside-usdd.png)
-# Donate Bitcoin:
-![Donate BTC to cancer-research-data-inside](cancer-research-data-inside-btc.png)
 
 ![Donate Dogecoin to cancer-research-data-inside](cancer-research-data-inside-dogecoin.png)
 
