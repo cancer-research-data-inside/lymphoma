@@ -16,7 +16,7 @@ Even this guy love this cute coin :).
 
 ![dogecoin imag](https://media.marketrealist.com/brand-img/v_4P0jrvF/2160x1131/should-i-buy-dogecoin-1608570181018.jpg)
 
-## Share some loves and cares to safe lifes:
+## Share some loves and cares if you have plenty of them:
 
 ![Donate Dogecoin to cancer-research-data-inside](cancer-research-data-inside-dogecoin.png)
 
