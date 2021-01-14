@@ -6,8 +6,9 @@
 
 Instruction:
 1. Click the link and register an account.
-2. After register, login and select mining
-3. Under mining, select dogecoin and adjust to 100%
+2. After register, login and select mining.
+3. Click on dashboard.
+3. Select mining and adjust dogecoin to 100%.
 4. Now you will see the number under dogecoin increasing. 
 
 We believe dogecoin represent loves and cares. Now you are seeing loves and cares being generated continuously. 
