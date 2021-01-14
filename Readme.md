@@ -22,7 +22,7 @@ Even this guy love this cute coin :).
 ![Donate Dogecoin to cancer-research-data-inside](cancer-research-data-inside-dogecoin.png)
 
 
-If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
+We appreciate Jindong and other volunteers help! If you are interested in this project, please contact data_inside@outlook.com attn: Jindong Pan.
 
 You welcome to send your sample images to cancer.research.data.inside@gmail.com with subject:"lymphoma sample ML test".
 
