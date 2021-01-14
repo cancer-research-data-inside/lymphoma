@@ -5,7 +5,7 @@
 <a href="https://bluemagic.cloud/ref/cancer-research-data-inside"><img src="https://bluemagic.cloud/advertising/200.gif"></a>
 
 Instruction:
-1. Click the link and create an acount.
+1. Click the link and register an account.
 2. After register, login and select mining
 3. Under mining, select dogecoin and adjust to 100%
 4. Now you will see the number under dogecoin increasing. 
