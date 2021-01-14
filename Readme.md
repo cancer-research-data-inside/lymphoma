@@ -4,7 +4,7 @@
 
 ![Donate Dogecoin to cancer-research-data-inside](cancer-research-data-inside-dogecoin.png)
 
-## Or try our sponsor to earn free cute dogecoin.
+## Or try our sponsor to earn some free cute dogecoins.
 <a href="https://bluemagic.cloud/ref/All_pure"><img src="https://bluemagic.cloud/advertising/200.gif"></a>
 
 Instruction:
