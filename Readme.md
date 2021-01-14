@@ -2,7 +2,7 @@
 
 
 ## Try our sponsor to earn some free cute dogecoins.
-<a href="https://bluemagic.cloud/ref/cancer-research-data-inside"><img src="https://bluemagic.cloud/advertising/200.gif"></a>
+<a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/468.gif"></a>
 
 Instruction:
 1. Click the link and register an account.
