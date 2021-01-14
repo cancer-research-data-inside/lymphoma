@@ -17,7 +17,7 @@ If you are willing to spend your money to buy some, go here!
 
 [coinbase.com](https://www.coinbase.com/join/pan_6cq)
 
-They seems have a promotion right now, gives away some bitecoin for new users. Click the link and try your luck :)!
+Coinbase seems have a promotion right now, gives away some bitecoin for new users. Click the link and try your luck :)!
 
 Even this guy love this cute coin.
 
