@@ -11,7 +11,7 @@ Instruction:
 3. Select mining and adjust dogecoin to 100%.
 4. Now you will see the number under dogecoin increasing. 
 
-We believe dogecoin represent loves and cares. Now you are seeing loves and cares being generated continuously. 
+We believe dogecoins are loves, cares and encourages. Now you are seeing loves, cares and encourages being generated continuously. 
 
 Even this guy love this cute coin :).
 
