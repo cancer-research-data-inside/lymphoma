@@ -13,6 +13,12 @@ Instruction:
 
 We believe dogecoins are loves, cares and encourages. Now you are seeing loves, cares and encourages being generated continuously. 
 
+If you are willing to spend your money to buy some, go here!
+
+[coinbase.com](https://www.coinbase.com/join/pan_6cq)
+
+They seems have a promotion right now, gives away some bitecoin for new users. Click the link and try your luck :)!
+
 Even this guy love this cute coin.
 
 ![dogecoin imag](https://media.marketrealist.com/brand-img/v_4P0jrvF/2160x1131/should-i-buy-dogecoin-1608570181018.jpg)
