@@ -1,8 +1,19 @@
 # Lymphoma ML project
 
-Donate to help:
+## Donate:
 
 ![Donate Dogecoin to cancer-research-data-inside](cancer-research-data-inside-dogecoin.png)
+
+## Or try our sponsor to earn free cute dogecoin.
+<a href="https://bluemagic.cloud/ref/All_pure"><img src="https://bluemagic.cloud/advertising/200.gif"></a>
+
+Instruction:
+1. Click the link and create an acount.
+2. After register, login and select mining
+3. Under mining, select dogecoin and adjust to 100%
+4. Now you will see the number under dogecoin increasing. 
+
+We believe dogecoin represent loves and cares. Now you are seeing loves and cares generated continuously :).
 
 If you need data analysis help, please contact data_inside@outlook.com attn: Jindong Pan.
 
