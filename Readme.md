@@ -5,7 +5,7 @@
 <a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/468.gif"></a>
 
 Instruction:
-1. Click the link and register an account.
+1. Click the [link](https://bluemagic.cloud/ref/cancer.research.data.inside) and register an account.
 2. After register, login and select mining.
 3. Click on dashboard.
 3. Select mining and adjust dogecoin to 100%.
