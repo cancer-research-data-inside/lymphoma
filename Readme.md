@@ -2,6 +2,7 @@
 
 
 ## Try our sponsor to earn some free cute dogecoins.
+<a href="https://clowerty.cc/ref/cancer.research.data.inside"><img src="https://clowerty.cc/advertising/468.gif"></a>
 <a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/468.gif"></a>
 
 Instruction:
