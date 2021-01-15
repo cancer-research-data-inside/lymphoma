@@ -23,7 +23,7 @@ Even this guy love this cute coin.
 
 ![dogecoin imag](https://media.marketrealist.com/brand-img/v_4P0jrvF/2160x1131/should-i-buy-dogecoin-1608570181018.jpg)
 
-## It seems he plan to take dogecoins with him to all stars! ;)
+## It seems he plan to take dogecoins with him to stars! ;)
 
 ![doecions at stars](https://www.supercryptonews.com/wp-content/uploads/2020/07/417578-1024x574-3.jpg)
 
