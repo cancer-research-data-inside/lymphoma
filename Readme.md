@@ -7,11 +7,12 @@
 <a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/468.gif"></a>
 
 Instruction:
-1. Click the [link](https://bluemagic.cloud/ref/cancer.research.data.inside) and register an account.
-2. After register and login
-3. Click on Dashboard
-3. Select mining and adjust dogecoin to 100%.
-4. Now you will see the number under dogecoin increasing. 
+1. Please use free plan only!
+2. Click the [link](https://bluemagic.cloud/ref/cancer.research.data.inside) and register an account.
+3. After register and login
+4. Click on Dashboard
+5. Select mining and adjust dogecoin to 100%.
+6. Now you will see the number under dogecoin increasing. 
 
 We believe dogecoins are loves, cares and encourages. Now you are seeing loves, cares and encourages being generated continuously. 
 
