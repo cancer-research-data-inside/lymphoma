@@ -7,7 +7,7 @@
 <a href="https://bluemagic.cloud/ref/cancer.research.data.inside"><img src="https://bluemagic.cloud/advertising/468.gif"></a>
 
 Instruction:
-1. Please use free plan only!
+1. Please use **free plan only**!
 2. Click the [link](https://bluemagic.cloud/ref/cancer.research.data.inside) and register an account.
 3. After register and login
 4. Click on Dashboard
